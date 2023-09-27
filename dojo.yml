@@ -7,8 +7,6 @@ description: |
   Hackers delve into these secrets, learning the subtle dance that all programs follow, and infusing it with unexpected improvisation.
   In this dojo, you will not only learn the true form of this dance, but develop the skill to impact it.
 
-type: topic
-
 modules:
 
 - id: shellcode-injection
